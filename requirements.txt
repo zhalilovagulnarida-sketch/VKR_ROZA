@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+streamlit
+tensorflow
+numpy
+pillow
+=======
+streamlit
+tensorflow
+numpy
+pillow
+>>>>>>> c1394cf (Initial commit)
+scikit-learn
